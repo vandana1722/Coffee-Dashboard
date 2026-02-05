@@ -8,8 +8,7 @@ The dashboard provides actionable insights into revenue patterns, top customers,
 
 ## 📂 Dataset
 - Coffee sales dataset used in the project  
-- Reference Video:  
-  https://www.youtube.com/watch?v=m13o5aqeCbM
+ - - <a href= "https://github.com/vandana1722/Coffee-Dashboard/blob/main/coffeeOrdersData.xlsx">Coffee Sales Analysis Dataset</a>
 
 ---
 
@@ -26,7 +25,11 @@ The dashboard provides actionable insights into revenue patterns, top customers,
 
 ### 📈 Sales Performance
 - Total sales trend over months and years  
-- Sales comparison across different coffee types  
+- Sales comparison across different coffee types
+
+-  Dashboard  
+  <a href="https://github.com/vandana1722/Coffee-Dashboard/blob/main/Screenshot%202026-01-21%20182404.jpg">Dashboard</a>
+
 
 ### ☕ Product Analysis
 - Performance of roast types (Dark, Medium, Light)  
